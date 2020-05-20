@@ -1,0 +1,39 @@
+I want you to build an app around MusterPoin HQ services, whit the following features
+
+SECTION1 USER PAGE
+1->
+ HomePage that will show some basic overview of MusterPoint
+
+2-> AboutUS that will descibe what musterpoint does
+
+3-> ContactUS for client or visitor to contact musterpoint care
+
+4-> WorkspacesPage that will show all the workspaces in musterpoint and the ones that are available
+
+5-> WorkspacePage On clicking on a workspace above, this page comes up and show more details about that space and Option to book the space
+
+6-> BookingPage this is where the user book a particular workspace there should be different options like night and day, day only, weekends etc.
+
+7->paymentPage this is where a user make payment after booking above, use https://payant.ng for accepting payments.
+
+
+SECTION2 ADMIN PAGE
+
+1-> HomePage this should show overview like number of workspace offices, the one available, ones in booked, total clients etc
+
+2-> workspacesPage this shows the list of workspaces and has option for adding a new workspace
+
+3-> usersPage this shows the total users, indicating the clients and the admins and staffs
+
+4-> SettingsPage this allows the admin to update his profile
+
+
+Others-> Put any other features u think is needed by musterpoint.
+
+
+Specifications:
+PHP Version - 7.xx
+Database  - MySQL
+UI             - Bootstrap 4.xx
+Develop your code actively with github
+share the github link with me before you start work
